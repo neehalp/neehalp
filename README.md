@@ -1,7 +1,7 @@
 # Hi, I'm Neehal P! 👋
 
 🎓 Cloud Computing Enthusiast & DevOps Practitioner
-I'm a motivated undergraduate specializing in Cloud Computing and Big Data at Reva University. I’m passionate about building scalable, automated, and efficient solutions using cloud platforms and modern DevOps practices.
+I'm a motivated undergraduate specializing in Cloud Computing and Big Data at Reva University. I’m passionate about building scalable, automated, and efficient solutions using cloud platforms and modern DevOps practices
 
 ![Banner Image](https://media-hosting.imagekit.io//8dd295bb61274bfa/1727009554376.jpeg?Expires=1832672973&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yeJ4~Xbnhdy51kz1IHJiyy~jk7C~qKcODUqMH24~2eNvUYX0X~84ip74UvoJON1EFTw6xLiguv5~6venZiF2hvzQrQX9PoPtOt3lh1cZETEWSLIKpWxyHFWmiz3cVjXyqDhzYN4UaUJIJq9FMUKKETeLPxhLhJtmtdQhijxiWlL6GCcHx9NTrgIGtkEUGWYNCoiVTnE0BxnYQfZSWpm2xCR~JSH63ceDvHItgNdmG51jBFNCKHE5Wjgx8neeEIAqsoPdiVSeJh6weEpFykNcFbBCBVHDk6Oqvi5jRCa00GZ0oiZoqYkYitijRkFdHvNyouQUXV171PpJqBbtWgOWQA__)
 
