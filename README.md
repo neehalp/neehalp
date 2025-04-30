@@ -22,9 +22,6 @@ Always exploring new ways to simplify cloud-native development and optimize infr
 
 ### Programming
 - Python
-  - NumPy
-  - SciPy
-  - Pandas
 - Java
 - C
 
@@ -33,6 +30,11 @@ Always exploring new ways to simplify cloud-native development and optimize infr
 - AWS CloudFormation
 - Azure Resource Manager
 - Google Cloud Deployment Manager
+
+###  AI & Data Science
+Python
+TensorFlow, PyTorch
+Pandas, NumPy, Matplotlib
 
 ### Automation Tools
 - Ansible
