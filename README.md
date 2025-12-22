@@ -83,7 +83,10 @@ Always exploring new ways to simplify cloud-native development and optimize infr
 - This project showcases the potential of cloud-native solutions for real-time applications in modern communication.
 
 ## 📜 Certifications
-
+- Oracle Cloud Infrastructure Architecture Associate (October 2025)
+- Microsoft Azure AI Fundamentals (December 2024)
+- Microsoft Azure Fundamentals (May 2024)
+- AWS Cloud Practitioner Essentials (April 2025)
 - AWS Technical Essentials (June 2024)
 - Azure AI Fundamentals (December 2024)
 - Optimizing FinOps with AWS (June 2024)
