@@ -18,11 +18,12 @@ Always exploring new ways to simplify cloud-native development and optimize infr
 - AWS
 - Azure
 - Google Cloud
+- Oracle
+- Verizon Cloud
 - Hadoop
 
 ### Programming
 - Python
-- Java
 - C
 
 ### Infrastructure as Code
